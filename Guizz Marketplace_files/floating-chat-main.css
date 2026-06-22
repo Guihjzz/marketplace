@@ -1,0 +1,58 @@
+.floatingchat-donate-button {
+    background-color: #00b4f7;
+    border-radius: 100px;
+    height: 46px;
+    display: flex;
+    align-items: center;
+    font-family: 'Nunito','Quicksand', sans-serif;
+    font-size: 16px;
+    width: max-content;
+    color: #fff;
+    justify-content: space-between;
+    padding: 0 20px;
+    font-weight: bold;
+    cursor: pointer;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+    display: flex !important;
+}
+
+.kofiimg { 
+    width: 39px;
+}
+
+@media only screen and (max-device-width: 750px) {
+    .floatingchat-donate-button { 
+        height: 46px;
+        font-size: 16px;
+        justify-content: space-evenly;
+        padding: 0 18px;
+    } 
+    .kofiimg { 
+        width: 35px; 
+    } 
+}
+
+/*
+     FILE ARCHIVED ON 21:11:27 Sep 07, 2025 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:29:08 May 29, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 1.09
+  captures_list: 0.793
+  exclusion.robots: 0.081
+  exclusion.robots.policy: 0.067
+  esindex: 0.014
+  cdx.remote: 26.53
+  LoadShardBlock: 709.054 (6)
+  PetaboxLoader3.resolve: 521.444 (6)
+  PetaboxLoader3.datanode: 166.837 (7)
+  load_resource: 117.881
+*/
